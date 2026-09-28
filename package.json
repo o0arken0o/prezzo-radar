@@ -1,0 +1,15 @@
+{
+  "name": "prezzo-radar",
+  "version": "1.0.0",
+  "description": "Agenti che cercano 24/7 prezzi bassissimi ed errori di prezzo e avvisano su Telegram",
+  "type": "module",
+  "scripts": {
+    "scan": "node src/index.js",
+    "loop": "node src/index.js --loop"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "cheerio": "^1.0.0"
+  }
+}
