@@ -1,0 +1,14 @@
+{
+  "_nota": "Aggiungi qui cosa devono controllare gli agenti",
+  "pages": [
+    "https://www.esempio-negozio.it/prodotto/cuffie-bluetooth"
+  ],
+  "ebay_queries": [
+    "cuffie bluetooth",
+    "smartwatch",
+    "lego"
+  ],
+  "rss_feeds": [
+    "https://www.esempio-sito-offerte.it/feed"
+  ]
+}
